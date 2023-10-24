@@ -9,4 +9,3 @@ Para realizar este proyecto en Javascript se empleo el uso de lo siguiente:
     DOM y Control de Eventos
     Local Storage y JSON(uso de metodos setItem, stringify, getItem, fetch, then y catch para administrar informacion almacenada localmente en un archivo JSON)
     Operadores avanzados
-    Librerias: SweetAlert2
