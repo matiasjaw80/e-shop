@@ -1,7 +1,7 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Abrigo 01",
+        "titulo": "Abrigo 01 - Campera Tubo Azul",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -11,7 +11,7 @@
     },
     {
         "id": "abrigo-02",
-        "titulo": "Abrigo 02",
+        "titulo": "Abrigo 02 - Campera Elegante Sport",
         "imagen": "./img/abrigos/02.jpg",
         "categoria": {
             "nombre": "Abrigos",
