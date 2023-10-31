@@ -21,7 +21,7 @@
     },
     {
         "id": "abrigo-03",
-        "titulo": "Abrigo 03",
+        "titulo": "Abrigo 03 - Campera Formal",
         "imagen": "./img/abrigos/03.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -31,7 +31,7 @@
     },
     {
         "id": "abrigo-04",
-        "titulo": "Abrigo 04",
+        "titulo": "Abrigo 04 - Campera Inflada",
         "imagen": "./img/abrigos/04.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -41,7 +41,7 @@
     },
     {
         "id": "abrigo-05",
-        "titulo": "Abrigo 05",
+        "titulo": "Abrigo 05 - Buzo Sport",
         "imagen": "./img/abrigos/05.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -51,7 +51,7 @@
     },
     {
         "id": "camiseta-01",
-        "titulo": "Camiseta 01",
+        "titulo": "Camiseta 01 - Basica Azul",
         "imagen": "./img/camisetas/01.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -61,7 +61,7 @@
     },
     {
         "id": "camiseta-02",
-        "titulo": "Camiseta 02",
+        "titulo": "Camiseta 02 - Blanca Estampada",
         "imagen": "./img/camisetas/02.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -71,7 +71,7 @@
     },
     {
         "id": "camiseta-03",
-        "titulo": "Camiseta 03",
+        "titulo": "Camiseta 03 - Celeste Estampada",
         "imagen": "./img/camisetas/03.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -81,7 +81,7 @@
     },
     {
         "id": "camiseta-04",
-        "titulo": "Camiseta 04",
+        "titulo": "Camiseta 04 - Basica Roca",
         "imagen": "./img/camisetas/04.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -91,7 +91,7 @@
     },
     {
         "id": "camiseta-05",
-        "titulo": "Camiseta 05",
+        "titulo": "Camiseta 05 - Basica Gris",
         "imagen": "./img/camisetas/05.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -101,7 +101,7 @@
     },
     {
         "id": "camiseta-06",
-        "titulo": "Camiseta 06",
+        "titulo": "Camiseta 06 - Basica Rojo F",
         "imagen": "./img/camisetas/06.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -111,7 +111,7 @@
     },
     {
         "id": "camiseta-07",
-        "titulo": "Camiseta 07",
+        "titulo": "Camiseta 07 - Basica Verde",
         "imagen": "./img/camisetas/07.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -121,7 +121,7 @@
     },
     {
         "id": "camiseta-08",
-        "titulo": "Camiseta 08",
+        "titulo": "Camiseta 08 - Basica Celeste",
         "imagen": "./img/camisetas/08.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -131,7 +131,7 @@
     },
     {
         "id": "pantalon-01",
-        "titulo": "Pantalón 01",
+        "titulo": "Pantalón 01 - Camel",
         "imagen": "./img/pantalones/01.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -141,7 +141,7 @@
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pantalón 02",
+        "titulo": "Pantalón 02 - Blanco",
         "imagen": "./img/pantalones/02.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -151,7 +151,7 @@
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pantalón 03",
+        "titulo": "Pantalón 03 - Negro",
         "imagen": "./img/pantalones/03.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -161,7 +161,7 @@
     },
     {
         "id": "pantalon-04",
-        "titulo": "Pantalón 04",
+        "titulo": "Pantalón 04 - Negro Informal",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -171,7 +171,7 @@
     },
     {
         "id": "pantalon-05",
-        "titulo": "Pantalón 05",
+        "titulo": "Pantalón 05 - De Vestir",
         "imagen": "./img/pantalones/05.jpg",
         "categoria": {
             "nombre": "Pantalones",
