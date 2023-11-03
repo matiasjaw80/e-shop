@@ -1,3 +1,12 @@
+//LOADER
+var container = document.getElementById('container');
+setTimeout(function() {
+	container.classList.add('cerrar');
+  document.body.style.overflowY= "visible";// despueés de cargar le devolvemos el scroll
+}, 20000);
+//LOADER
+
+
 let productos = [];
 
 fetch("./js/productos.json")
@@ -18,13 +27,6 @@ const numerito = document.querySelector("#numerito");
 botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
 }))
-
-
-var container = document.getElementById('container');
-setTimeout(function() {
-	container.classList.add('cerrar');
-  document.body.style.overflowY= "visible";// despueés de cargar le devolvemos el scroll
-}, 20000);
 
 function cargarProductos(productosElegidos) {
 
