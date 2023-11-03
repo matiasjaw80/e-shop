@@ -1,13 +1,3 @@
-//LOADER
-$(window).on('load', function () {
-    setTimeout(function () {
-        $(".loader-page").css({ visibility: "hidden", opacity: "0" })
-    }, 8000);
-
-});
-//LOADER
-
-
 let productos = [];
 
 fetch("./js/productos.json")
