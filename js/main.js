@@ -20,6 +20,12 @@ botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
 }))
 
 
+var container = document.getElementById('container');
+setTimeout(function() {
+	container.classList.add('cerrar');
+  document.body.style.overflowY= "visible";// despueés de cargar le devolvemos el scroll
+}, 20000);
+
 function cargarProductos(productosElegidos) {
 
     contenedorProductos.innerHTML = "";
