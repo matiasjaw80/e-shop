@@ -1,9 +1,9 @@
 //LOADER
 $(window).on('load', function () {
     setTimeout(function () {
-  $(".loader-page").css({visibility:"hidden",opacity:"0"})
-}, 2000);
-   
+        $(".loader-page").css({ visibility: "hidden", opacity: "0" })
+    }, 8000);
+
 });
 //LOADER
 
@@ -102,22 +102,22 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #4b33a8, #785ce9)",
-          borderRadius: "2rem",
-          textTransform: "uppercase",
-          fontSize: ".75rem"
+            background: "linear-gradient(to right, #4b33a8, #785ce9)",
+            borderRadius: "2rem",
+            textTransform: "uppercase",
+            fontSize: ".75rem"
         },
         offset: {
             x: '1.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
             y: '1.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
-          },
-        onClick: function(){} // Callback after click
-      }).showToast();
+        },
+        onClick: function () { } // Callback after click
+    }).showToast();
 
     const idBoton = e.currentTarget.id;
     const productoAgregado = productos.find(producto => producto.id === idBoton);
 
-    if(productosEnCarrito.some(producto => producto.id === idBoton)) {
+    if (productosEnCarrito.some(producto => producto.id === idBoton)) {
         const index = productosEnCarrito.findIndex(producto => producto.id === idBoton);
         productosEnCarrito[index].cantidad++;
     } else {
