@@ -64,7 +64,7 @@
             </footer>
         </aside>
         <main>
-            <div class="loader-page"></div>
+            <div class="loader"></div>
             
             <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
             <div id="contenedor-productos" class="contenedor-productos">
@@ -76,7 +76,12 @@
     </div>
     
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(window).load(function() {
+            $(".loader").fadeOut("slow");
+        });
+    </script>
     <script src="./js/main.js"></script>
     <script src="./js/menu.js"></script>
 </body>
